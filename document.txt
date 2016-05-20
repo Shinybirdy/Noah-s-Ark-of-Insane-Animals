@@ -1,0 +1,2 @@
+CREATE UNIQUE INDEX zoo_animals_pkey
+ON zoo_animals USING btree (id)
